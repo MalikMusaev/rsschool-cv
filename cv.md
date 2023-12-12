@@ -31,3 +31,23 @@ My interpersonal skills and teamwork skills are exceptional, and I am enthusiast
 - Git 
 
 ---
+
+#### Code example:
+
+```js
+const whoIsThisHouseToStarks = (houseName) => {
+  let status;
+
+  if (houseName === "Karstark" || houseName === "Tally") {
+    status = "friend";
+  } else if (houseName === "Lannister" || houseName === "Frey") {
+    status = "enemy";
+  } else {
+    status = "neutral";
+  }
+
+  return status;
+};
+```
+
+---
