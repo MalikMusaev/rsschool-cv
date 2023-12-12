@@ -51,3 +51,18 @@ const whoIsThisHouseToStarks = (houseName) => {
 ```
 
 ---
+
+#### Courses:
+
+- Сode-basics
+- Udemy
+
+---
+
+#### Languages:
+
+- English - Pre-intermediate
+- Russian - Native
+- Kyrgyz - Native
+
+---
